@@ -2,7 +2,8 @@
 
 
 
-- 🔭 I’m currently working a project that will help people to overcome social anxiety
-- 🌱 I’m currently learning React Native and exploring PyTorch 
-- ⚡ Fun fact: I can dance :sunglasses:
+- Do you ever ponder the question: "How do I debug myself" ?
+- Talk to me if you do!
+- 🔭 I’m currently anxiously studying for coding interviews
+- 🌱 I’m currently learning to think about edge cases ahead of time 
 
