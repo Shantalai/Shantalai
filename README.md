@@ -2,7 +2,7 @@
 
 
 
-- Do you ever ponder the question: "How do I debug myself" ?
-- 🔭 I’m currently anxiously studying for coding interviews
-- 🌱 I’m currently learning to think about edge cases ahead of time 
+- Senior Computer Science student at NJIT
+- Currently focusing on building my skills in full-stack development 
+
 
